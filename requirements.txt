@@ -1,0 +1,12 @@
+aiofiles~=25.1.0
+aiohttp~=3.14.0
+kurigram>=2.2.17
+pillow~=12.3.0
+psutil~=7.2.0
+pymongo>=4.18.0
+pytgcrypto>=1.2.11
+py-tgcalls~=3.0.0
+py-yt-search>=0.8.0
+python-dotenv~=1.2.0
+speedtest-cli
+yt-dlp[default]>=2026.8.0
